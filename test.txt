@@ -2,15 +2,9 @@ new test 正在改动 changes
 
 main分支：B
 
-<<<<<<< HEAD
 main:D
 
 main:E
-=======
 feature:c
-<<<<<<< HEAD
->>>>>>> aa1302c (feature-c)
-=======
 
 feature:d
->>>>>>> b03aad1 (feature-d)
