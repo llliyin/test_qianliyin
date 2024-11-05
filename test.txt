@@ -8,4 +8,9 @@ main:D
 main:E
 =======
 feature:c
+<<<<<<< HEAD
 >>>>>>> aa1302c (feature-c)
+=======
+
+feature:d
+>>>>>>> b03aad1 (feature-d)
